@@ -38,4 +38,5 @@ Este proyecto se distribuye bajo la licencia MIT.
 
 ---
 **Autor:** Jose Belchí Hernández
+
 **Licencia:** [MIT](./LICENSE)
