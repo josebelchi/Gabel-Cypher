@@ -39,4 +39,4 @@ Este proyecto se distribuye bajo la licencia MIT.
 ---
 **Autor:** Jose Belchí Hernández
 
-**Licencia:** [MIT](./LICENSE)
+**Licencia:** [MIT][(https://github.com/josebelchi/Gabel-Cypher/blob/main/LICENSE.txt)
