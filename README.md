@@ -15,8 +15,8 @@ El **Cifrado Gabel** es un sistema de cifrado y descifrado de frases en Java que
 - `GabelTest`: Clase de pruebas para validar el funcionamiento de las funciones de cifrado y descifrado.
 
 ## Instalación
-1. Clona el repositorio:\n
-   (bash)\n
+1. Clona el repositorio:
+   (bash)
     git clone https://github.com/usuario/Gabel-Cypher.git
 2. Importa el proyecto en tu IDE de preferencia (IntelliJ, Eclipse...). 
 3. Asegúrate de tener JUnit 4 agregado al classpath para ejecutar las pruebas.
