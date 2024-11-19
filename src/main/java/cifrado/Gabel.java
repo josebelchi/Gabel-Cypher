@@ -9,7 +9,8 @@ public class Gabel {
         this.console = Console.getInstance();
     }
 
-    public void gabelCypher() { // does not support 'ñ'
+    
+    public void gabelCypher() { // does not support 'ñ' character
         String phrase;
         console.println("-=-=-=- SISTEMA DE CIFRADO GABEL -=-=-=-");
 
@@ -80,6 +81,7 @@ public class Gabel {
         return cypheredPhrase.toString();
     }
 
+    
     public String decypher (String phrase) {
         String normalizedPhrase = normalize(phrase);
         StringBuilder decypheredPhrase = new StringBuilder();
